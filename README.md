@@ -8,3 +8,8 @@ UFW Status to see the things that UFW allows.
 Apt-get update to download update
 Apt-get upgrade. DO THIS. VERY IMPORTANT.
 Apt-get dist-upgrade. DO THIS ALSO. :SFJ:HGTLUJS:KIJ
+
+
+
+
+Other: https://github.com/cwade12c/cybersaxons-linux-checklist/blob/master/checklist.pdf
