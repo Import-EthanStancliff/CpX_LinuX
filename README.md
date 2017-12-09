@@ -11,6 +11,7 @@ Apt-get dist-upgrade. DO THIS ALSO.
 
 apt-get install openssh-server if ssh is a critical service
 gedit /stc/ssh/sshd_config to secure
+PermitRootLogin should be no
 
 
 
